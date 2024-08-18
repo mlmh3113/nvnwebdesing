@@ -1,6 +1,6 @@
 <template>
     <a 
-     href="https://wa.me/5491139236695?text=Hola,%20te%20escribo%20desde%nvnwebdesing.com%20te%20queria%20consultar%20sobre%20"
+     href="https://wa.me/5491139236695?text=Hola,%20te%20escribo%20desde%20nvnwebdesing.com%20te%20queria%20consultar%20sobre%20"
      class="fixed bottom-10 right-10 text-white p-3 rounded-full bg-green-500 shadow-md shadow-black
      hover:bg-green-600 hover:shadow hover:scale-105 transition-all duration-300"
      target="_blank"

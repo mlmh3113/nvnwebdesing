@@ -1,7 +1,7 @@
 <template>
 
     <div class="max-w-7xl mx-3 md:mx-auto my-20 text-center  ">
-        <h1 class="text-3xl font-bold text-[#34D6E2] my-10">¿ComoTrabajamos</h1>
+        <h1 class="text-3xl font-bold text-[#34D6E2] my-10">¿Como Trabajamos?</h1>
         <div class="grid grid-cols-1 md:grid-cols-4 gap-5">
 
             <div class="col-span-1 flex flex-col justify-center border border-gray-300 text-start p-3 hover:-translate-y-1 duration-300 ease-in-out ">
