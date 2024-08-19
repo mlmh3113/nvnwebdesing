@@ -62,7 +62,7 @@ import banContacto from '../Components/Project/banContacto.vue'
 <style scoped >
 
 #services {
-  background-image: url('@/images/grid-lines.png');
+  background-image: url('https://res.cloudinary.com/dkoocayxp/image/upload/v1724099359/NVN%20Web%20Desing/grid-lines_e3ikw3.png');
   background-color:#22143D;
   opacity: 0.9;
   background-blend-mode: overlay ;

@@ -28,7 +28,7 @@
 
 
         <div class="col-span-1">
-            <img src="@/images/keyboard.png" alt="">
+            <img src="https://res.cloudinary.com/dkoocayxp/image/upload/v1724100264/NVN%20Web%20Desing/wallpaperflare.com_wallpaper_r0wumj.jpg" alt="">
         </div>
 
 
