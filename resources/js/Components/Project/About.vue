@@ -24,8 +24,8 @@
 
                 <div class="flex flex-col w-full justify-center gap-5 mt-10">
 
-                    <a href="#contact">
-                        <button class="bg-gradient-to-r from-[#834DEB] to-[#3BCAE3] text-white uppercase py-2 px-6 border-2 border-[#834DEB] font-bold hover:-translate-y-1 duration-500 ease-in-out 
+                    <a class="flex justify-center" href="#contact">
+                        <button class="w-full  bg-gradient-to-r from-[#834DEB] to-[#3BCAE3] text-white uppercase py-2 px-6 border-2 border-[#834DEB] font-bold hover:-translate-y-1 duration-500 ease-in-out 
                 hover:bg-gradient-to-r hover:from-[#3BCAE3] hover:to-[#834DEB]
                 ">Contacto</button>
                     </a>

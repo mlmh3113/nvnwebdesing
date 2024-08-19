@@ -10,14 +10,14 @@
 
             <div class="flex flex-col md:flex-row justify-center gap-5 mt-10">
                 
-                <a href="#contact">
-                    <button class="bg-gradient-to-r from-[#834DEB] to-[#3BCAE3] text-white uppercase py-2 px-6 border-2 border-[#834DEB] font-bold hover:-translate-y-1 hover:scale-110 duration-500 ease-in-out 
+                <a  href="#contact">
+                    <button class="w-full  bg-gradient-to-r from-[#834DEB] to-[#3BCAE3] text-white uppercase py-2 px-6 border-2 border-[#834DEB] font-bold hover:-translate-y-1 hover:scale-110 duration-500 ease-in-out 
                 hover:bg-gradient-to-r hover:from-[#3BCAE3] hover:to-[#834DEB]
                 ">Contacto</button>
                 </a>
                 <a href="#services">
                     <button
-                        class="text-white uppercase py-2 px-6 border-2 border-[#34D6E2] font-bold hover:-translate-y-1 hover:scale-110 duration-500 ease-in-out hover:text-[#34D6E2] hover:border-white">
+                        class="w-full text-white uppercase py-2 px-6 border-2 border-[#34D6E2] font-bold hover:-translate-y-1 hover:scale-110 duration-500 ease-in-out hover:text-[#34D6E2] hover:border-white">
                         Servicios</button>
                 </a>
 

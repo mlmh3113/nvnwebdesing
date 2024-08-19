@@ -66,6 +66,9 @@ import banContacto from '../Components/Project/banContacto.vue'
   background-color:#22143D;
   opacity: 0.9;
   background-blend-mode: overlay ;
+  background-size: cover;
+  
+
 }
 
 </style>
